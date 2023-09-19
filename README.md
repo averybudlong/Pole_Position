@@ -3,7 +3,7 @@
 ![Screenshot 2023-09-19 at 01-20-53 Term Project Progression](https://github.com/averybudlong/Pole_Position/assets/77567313/80fd8f73-8fb8-447c-ae7f-82bdb9d18f26)
 
 RUNNING THE PROJECT:\
-To run the project just run the main.py file\
+To run the project just run the main.py file
 
 MODULES:\
 The only module required is PIL / Pillow which can be installed by following the guide here:\
