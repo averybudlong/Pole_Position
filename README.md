@@ -1,6 +1,6 @@
 # Pole_Position
 
-![Screenshot 2023-09-19 at 01-20-06 Term Project Progression](https://github.com/averybudlong/Pole_Position/assets/77567313/57636de9-e49c-4ee1-861a-d2774190010d)
+![Screenshot 2023-09-19 at 01-20-53 Term Project Progression](https://github.com/averybudlong/Pole_Position/assets/77567313/661363e8-820b-4f1d-b72a-47cd8709f46b)
 
 RUNNING THE PROJECT:
 To run the project just run the main.py file
